@@ -1,0 +1,15 @@
+“# folio3-specs”
+“# MyCustomPod”
+“# FrsCocoapods”
+# FrsCocoapods
+# FrsCocoapods
+# FrsCocoapods
+# FrsCocoapods
+# FrsCocoapods
+# FrsCocoapods
+# FRSCocoapod
+# frscocoapod
+# frscocoapod
+# frscocoapods
+“# folio3-specs”
+# FRSPod
